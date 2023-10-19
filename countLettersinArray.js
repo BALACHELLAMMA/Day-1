@@ -14,7 +14,7 @@ const countLetters=(str)=>{
         if(currChar!=' ' && !charactersToAvoid.includes(currChar)){
 
             //check whether the string has any special characters or numbers 
-            count++;   
+            count++;  
 
         }
     }
